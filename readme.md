@@ -1,3 +1,9 @@
+# 印象盐城·数创未来大数据竞赛 - 盐城汽车上牌量预测题解
+
+初赛排名34，复赛排名25
+
+比赛链接：https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.315ed780bOuAeJ&raceId=231641
+
 首先恭喜排在前面的队伍，第一名两万多的mse真的很amazing，希望有一天能看到他们的方案，共同进步。
 
 ## 基本思路
